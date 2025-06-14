@@ -1,4 +1,5 @@
-# ComfyUI Tools
+# ComfyUI Custom Nodes
+
 Se você está iniciando no mundo do ComfyUI e não sabe quais extensões/custom nodes a ser intalados nele, cataloguei as extensões do meu aprendizado neste novo mundo de IA Generativa de imagens e vídeos.
 
 # Extensões recomendadas
