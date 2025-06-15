@@ -7,4 +7,5 @@ Se você está iniciando no mundo do ComfyUI e não sabe quais extensões/custom
 - ComfyUI-Manager (https://github.com/Comfy-Org/ComfyUI-Manager)
 - comfyui-itools (https://github.com/MohammadAboulEla/ComfyUI-iTools)
 - ComfyUI-Crystools (https://github.com/crystian/ComfyUI-Crystools)
+- ComfyUI-GGUF (https://github.com/city96/ComfyUI-GGUF)
  
